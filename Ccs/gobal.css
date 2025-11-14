@@ -1,3 +1,10 @@
+.main{
+    main {
+  margin-top: 150px; 
+}
+
+    
+}
 .fot{
     text-align: center;
 }
@@ -30,7 +37,7 @@ header{
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 1000; /* Para que quede encima del contenido */
+  z-index: 1000;
 }
 
 }
@@ -38,3 +45,4 @@ footer{
     background-color: #D6B5E2;width: 100%;display: block;
 
 }
+
