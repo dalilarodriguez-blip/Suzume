@@ -5,8 +5,11 @@
   gap: 40px;margin-top: 40px;
 }
 
+
 .imagenprincipal {
   width: 300px;
+  max-height: 450px;
+  object-fit: cover;
   border-radius: 10px;
 }
 
