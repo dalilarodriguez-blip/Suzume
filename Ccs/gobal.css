@@ -15,7 +15,9 @@
   border-radius: 10px;
 }
 
-.video-container {width: 560px; height: 315px;
+.video-container {
+  width: 560px;
+  height: 315px;
 }
 
 .video-container iframe {
