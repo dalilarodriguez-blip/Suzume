@@ -1,0 +1,24 @@
+
+.cajatarjeta{display: flex;flex-direction: row; margin: 30px 30px ;
+    ;justify-content: center;gap: 20px
+}
+.tarjeta{
+    
+    background-color: #59457B;width: 20%; border-radius: 20px;
+    text-align: center;
+    img{
+        width: 70%;align-items: center;
+    }
+  
+}
+.protagonistas{
+    border-radius: 20px;
+}
+body{
+    background-image: url(imagenes/fondo-Daijin-violeta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
+}
+main{
+    color: white;font-size: 20px;font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

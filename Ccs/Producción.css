@@ -1,0 +1,9 @@
+
+body{
+    background-image: url(imagenes/fondo-suzume-violeta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
+}
+main{
+    color: white;font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;font-size: 20px;
+}
