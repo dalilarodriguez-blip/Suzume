@@ -27,9 +27,10 @@
 .nombre{
     font-size: 80px;color: white;
 }
-body{margin: 0;
+body{
     background-image: url(imagenes/Fondo-puerta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
-
+    margin: 0;
+    padding: 0;
 }
 
 p{
