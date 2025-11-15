@@ -29,6 +29,14 @@ img {
     overflow: clip;
 }
 
+.nombre{
+
+}
+.navmenu {
+    display: flex;
+    gap: 5rem;
+}
+
 body{
     background-image: url(imagenes/Fondo-puerta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
     margin: 0;
