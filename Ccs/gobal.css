@@ -29,8 +29,11 @@ img {
     overflow: clip;
 }
 
-.nombre{
 
+nav img {
+    height: 60px;    
+    width: auto;
+    margin-right: 20px;
 }
 .navmenu {
     display: flex;
