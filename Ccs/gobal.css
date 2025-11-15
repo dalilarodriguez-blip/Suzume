@@ -24,8 +24,12 @@
 .boton{
     background-color:  #59457B;color: white;padding: 10px 20px; border:none ;border-radius: 5px;cursor: pointer;font-size: 20px;font-weight: bolder;
 }
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
 .nombre{
-    font-size: 80px;color: white;
+    height: 3rem;
 }
 body{
     background-image: url(imagenes/Fondo-puerta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
