@@ -49,17 +49,18 @@
     padding: 10px 15px;
     background-color: #5A4A78;
     border-radius: 10px;
-    text-decoration: none;
+    text-decoration: none;transition: all linear 1;
 }
+.boton:hover{background-color: #D6B5E2 ; color: #1e3666;
+   scale: 1;
+
+}
+
+
 .navmenu {
     display: flex;
-    gap: 20px; transition: all linear 1;}
-
-.navmenu:hover { background-color: #D6B5E2 ; color: #1e3666;
-   scale: 1;
-}    
-
-
+    gap: 20px; }
+  
 .logo-suzume { height: 80px;    width: auto;}
 
  
