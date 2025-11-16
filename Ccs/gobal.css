@@ -60,6 +60,7 @@ nav {
     background-color: #1c315e; /* tu color azul */
 }
 
+
 body{
     background-image: url(imagenes/Fondo-puerta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
     margin: 0;
@@ -70,7 +71,7 @@ p{
 font-size: 20px;
 }
 header{
-    color: white;
+    background-color: #1E3666;color: white;
 }
 footer{
     background-color: #D6B5E2;width: 100%;display: block;
