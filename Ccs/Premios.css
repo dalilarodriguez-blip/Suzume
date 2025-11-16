@@ -1,3 +1,8 @@
+.premiostitulo{
+
+    justify-content: center;
+}
+
 
 .cajatarjeta{display: flex;flex-direction: row; margin: 30px 30px ;
     ;justify-content: center; gap: 20px; padding: 10px;
