@@ -1,13 +1,13 @@
 
 .cajatarjeta{display: flex;flex-direction: row; margin: 30px 30px ;
-    ;justify-content: center; gap: 20px; padding: 8px;
+    ;justify-content: center; gap: 20px; padding: 10px;
 }
 .tarjeta{
     
     background-color: #59457B;width: 20%; border-radius: 20px;
     text-align: center;
     img{
-        width: 50%;align-items: center; padding: 8px;
+        width: 50%;align-items: center; padding: 10px;
     }
   
 }
