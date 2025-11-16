@@ -1,3 +1,13 @@
+.navheader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+   padding: 10px 20px}
+.nombre {
+    display: flex;
+    align-items: center;
+}
+
 .divheader {
     display: flex;
     justify-content: space-between;
@@ -21,20 +31,20 @@
 .imagenprincipal{
     display: block ;margin: 200px;border-radius: 20px;
 }
-.boton{
-    padding: 10px 20px;
-    background-color: #6b4a7e;
+.boton {
     color: white;
+    padding: 10px 15px;
+    background-color: #5A4A78;
+    border-radius: 10px;
     text-decoration: none;
-    border-radius: 8px;
-    font-size: 20px;
 }
+.navmenu {
+    display: flex;
+    gap: 20px; }
 
-.logo-suzume{
-  width: 50%;
-  height: auto;
-  display: block;
-}
+
+.logo-suzume { height: 80px;    width: auto;}
+
 
    } 
 img {
