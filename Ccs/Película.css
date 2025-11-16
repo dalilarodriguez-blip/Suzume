@@ -12,7 +12,7 @@
     border-radius: 20px;
     object-fit: cover;}
 
-.cajatexto { background: rgba(255, 255, 255, 0.15); padding: 20px; border-radius: 15px; color: white; }
+.cajatexto {  background-color: rgba(89, 69, 123, 0.75); padding: 20px; border-radius: 15px; color: white; }
 
 body{
     background-image: url(imagenes/fondo-suzume-y-souta-violeta.jpg);background-repeat: no-repeat no-repeat;background-size: cover;background-attachment: fixed;
