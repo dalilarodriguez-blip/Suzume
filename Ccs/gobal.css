@@ -23,19 +23,17 @@
 .fot {
     background-color: #D6B5E2;
     width: 100%;
-    padding: 20px 0;
-
+    padding: 10px 0;
     display: flex;
     flex-direction: column;
     align-items: center;      
     justify-content: center; 
     text-align: center;     
 }
-
-.fot img {
-    display: block;
-    margin-bottom: 8px;}
-
+.fot p {
+    margin: 0;
+    padding: 0;
+}
 
 
 .descripcion{
