@@ -1,5 +1,13 @@
+.galeria {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);    gap: 20px;   width: 500px; }
 
-.imagen1{display: block ;margin: 0 auto; border-radius: 20px;
+.galeria img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px; object-fit: cover; }
+    
+ .imagen1{display: block ;margin: 0 auto; border-radius: 20px;
 
 }
 body{
