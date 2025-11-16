@@ -22,23 +22,37 @@
     display: block ;margin: 200px;border-radius: 20px;
 }
 .boton{
-    background-color:  #59457B;color: white;padding: 10px 20px; border:none ;border-radius: 5px;cursor: pointer;font-size: 20px;font-weight: bolder;
+    padding: 10px 20px;
+    background-color: #6b4a7e;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 20px;
 }
+
+.logo-suzume{ width: 20px; height: 20px;
+
+   } 
 img {
     overflow-clip-margin: content-box;
     overflow: clip;
 }
 
 
-nav img {
-    height: 60px;    
-    width: auto;
-    margin-right: 20px;
-}
-.navmenu {
+nav {
     display: flex;
-    gap: 5rem;
+    align-items: center;
+    padding: 10px 30px;
+    background-color: #1c315e; /* tu color azul */
 }
+
+.logo {
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    margin-right: 40px;
+}
+
 
 body{
     background-image: url(imagenes/Fondo-puerta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
