@@ -8,6 +8,10 @@
     align-items: center;
 }
 
+.video-container{ display: flex; justify-content: center;
+
+}
+
 .divheader {
     display: flex;
     justify-content: space-between;
