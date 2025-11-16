@@ -22,9 +22,14 @@
 .galeria img { width: 100%;
     aspect-ratio: 1 / 1; 
     border-radius: 20px;
-    object-fit: cover;}
+    object-fit: cover;transition: all linear 1;}
 
 .cajatexto {  background-color: rgba(89, 69, 123, 0.75); padding: 20px; border-radius: 15px; color: white; }
+
+.cajatexto:hover{ background-color: #D6B5E2 ; color: #1e3666;
+   scale: 1; 
+
+}
 
 body{
     background-image: url(imagenes/fondo-suzume-y-souta-violeta.jpg);background-repeat: no-repeat no-repeat;background-size: cover;background-attachment: fixed;
