@@ -1,4 +1,16 @@
 
+.bloqueprincipal {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    width: 90%;
+    margin: 60px auto;
+}
+.panel-texto {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;}
+    
 .contenedor {
     display: grid;
     grid-template-columns: 1fr 1fr;  gap: 30px;
