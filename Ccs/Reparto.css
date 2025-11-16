@@ -7,12 +7,12 @@
     background-color: #59457B;width: 20%; border-radius: 20px;
     text-align: center;
     img{
-        width: 60%;align-items: center; padding: 20px;
+        width: 60%;align-items: center; padding: 20px; margin-left: 10px;margin-right: 10px;
     }
   
 }
 .protagonistas{
-    border-radius: 20px;
+    border-radius:25px;
 }
 body{
     background-image: url(imagenes/fondo-Daijin-violeta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
