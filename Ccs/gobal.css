@@ -44,7 +44,7 @@
   font-style: normal;margin: 0 5% 10px;
 }
 .imagenprincipal{
-    display: block;border-radius: 20px;
+    display: flex;border-radius: 20px;
 }
 .boton {
     color: white;
