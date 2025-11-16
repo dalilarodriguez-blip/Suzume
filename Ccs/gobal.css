@@ -8,12 +8,12 @@
     align-items: center;
 }
 
-.video-container{ display: flex; justify-content: center; margin: 10px; ;
+.video-container{ display: flex; justify-content: center; margin: 10px;border-radius: 20px;
 
 }
 
 .imagenprincipal{
-    display: flex;border-radius: 20px;margin: 10px;
+    display: flex;border-radius: 20px;margin: 10px;justify-content: center;
 }
 
 .divheader {
