@@ -8,12 +8,8 @@
     text-align: center;
 img{ width: 50%;align-items: center; padding: 15px;}
 
-.titulopremio{
-     text-align: center;
-    width: 100%;
-}
   
-
+}
 body{
     background-image: url(imagenes/fondo-daijin-2-violeta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
 }
