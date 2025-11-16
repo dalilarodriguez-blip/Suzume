@@ -21,7 +21,11 @@
     
 }
 .fot{
-    text-align: center;
+    text-align: center;display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+
 }
 .descripcion{
     color: white;background-color: #59457B; border: none; border-radius: 20px;font-family: "Fira Sans", sans-serif;
