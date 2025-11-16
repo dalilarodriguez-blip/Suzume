@@ -14,12 +14,14 @@
     align-items: center;
 }
 .main{
-    main {
   margin-top: 150px; 
 }
 
-    
+iframe{ aspect-ratio: 16/9;
+
 }
+    
+
 .fot {
     background-color: #D6B5E2;
     width: 100%;
