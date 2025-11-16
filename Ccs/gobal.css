@@ -34,13 +34,14 @@
 .descripcion {
     width: 560px;              
     margin-top: 20px;
-    background-color: rgba(89, 69, 123, 0.5); 
-;
+    background-color: rgba(89, 69, 123, 0.5);  margin-top: 25px;
     padding: 20px;
     border-radius: 20px;
     color: white;
     font-family: "Fira Sans", sans-serif;
     max-height: 260px;  overflow-y: auto; }
+
+
 .video-container{ display: flex; justify-content: center; margin: 20px;border-radius: 20px;
 
 }
@@ -74,12 +75,6 @@
     padding: 0;
 }
 
-
-.descripcion{
-    color: white;background-color: #59457B; border: none; border-radius: 20px;font-family: "Fira Sans", sans-serif;
-  font-weight: 400;
-  font-style: normal;margin: 0 5% 10px;
-}
 
 .boton {
     color: white;

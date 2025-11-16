@@ -6,9 +6,14 @@
 .tarjeta{
     
     background-color: #59457B;width: 20%; border-radius: 20px;
-    text-align: center;position: relative; 
+    text-align: center;position: relative; transition: all linear 1;
  img{ width: 60%;align-items: center; padding: 20px; margin-left: 10px;margin-right: 10px;}
   
+}
+
+.tarjeta:hover{background-color: #D6B5E2 ; color: #1e3666;
+   scale: 1;
+
 }
 
 
