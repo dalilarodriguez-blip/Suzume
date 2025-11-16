@@ -1,9 +1,7 @@
 
 .cajatarjeta{display: flex;flex-direction: row; margin: 30px 30px ;
-    ;justify-content: center;gap: 20px;  width: 200px;
-  height: 250px;
-  margin: 1rem auto;
-  perspective: 1000px;
+    ;justify-content: center;gap: 20px;
+
 }
 .tarjeta{
     
