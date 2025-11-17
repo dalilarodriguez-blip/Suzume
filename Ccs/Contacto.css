@@ -2,18 +2,21 @@
 
 fieldset{
 display: flex;
-flex-direction: column;
-input{font-size: 2rem;padding: 10px;
-
-}
+flex-direction: column;margin: 50px 0;
+input{font-size: 1rem;padding: 10px;}
 }
 
 form{ background-color: rgba(89, 69, 123, 0.75) ;width: 50%;max-width: 1000px; margin: 0 auto;
 
 }
+.centrado{
+    display: flex; justify-content: space-evenly;
+}
+
+label{ font-size: 1rem;padding: 10px}
 
 .titulocumple{
-text-align: center;
+text-align: center;color:white ;
 }
 
 body{

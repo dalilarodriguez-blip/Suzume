@@ -33,6 +33,7 @@
     </div>
 </header>
 <main>
+    <br>
 <h1 class="titulocumple"> Registrate y completa tu fecha de compleaños para recibir regalos exclusivos!</h1>
 <br>
 
@@ -41,15 +42,21 @@
     <fieldset>
         <legend>Datos personales </legend>
         <label for="nombreusuario">Complete su Nombre</label>
-        <input placeholder="Nombre y Apellido" type="text" id="nombreusuario">
+        <input required placeholder="Nombre y Apellido" type="text" id="nombreusuario">
 
         <label for="emailus">Complete su Email</label>
-         <input placeholder="ejemplo@gmail.com" type="email" id="emailus">
+         <input required placeholder="ejemplo@gmail.com" type="email" id="emailus">
 
         <label for="cumpleaño">Complete su fecha de cumpleaños</label>
-         <input type="date" name="" id="cumpleaños">
+         <input required type="date" name="" id="cumpleaños">
        
     </fieldset>
+    <article class="centrado">
+        <input type="submit" value="Enviar">
+    <input type="reset" value="Borrar">
+    <input type="submit" value="Cancelar">
+    </article>
+    
 </form>
 
 </main>
