@@ -5,7 +5,7 @@ body{
 .felicitaciones{
     display: flex;
     justify-content: center;  align-items: center;  gap: 40px;                
-    padding: 40px;}
+    padding: 40px;background-color: rgba(89, 69, 123, 0.75); padding: 20px; border-radius: 15px;}
 
 .gatospng {
     width: 300px;
