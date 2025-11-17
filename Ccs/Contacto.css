@@ -3,7 +3,7 @@
 fieldset{
 display: flex;
 flex-direction: column;margin: 50px 0;
-input{font-size: 1rem;padding: 10px; color: white;}
+input{font-size: 1rem;padding: 10px; ;}
 }
 
 form{ background-color: rgba(89, 69, 123, 0.75) ;width: 50%;max-width: 1000px; margin: 0 auto;
@@ -11,7 +11,7 @@ form{ background-color: rgba(89, 69, 123, 0.75) ;width: 50%;max-width: 1000px; m
 }
 
 input{
-    font-size: 1rem;color: white; padding: 15px;
+    font-;font-size: 1rem;color: rgba(60, 40, 95, 0.75); padding: 15px; border-radius: 20px;
 }
 
 
@@ -26,5 +26,5 @@ text-align: center;color:white ;
 }
 
 body{
-    background-image: url(imagenes/fondo-suzume-y-silla-violeta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
+    background-image: url(imagenes/fondo-suzume-y-silla-violeta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;color: white;
    }
