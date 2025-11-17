@@ -2,9 +2,18 @@ body{
     background-image: url(imagenes/Fondo-puerta.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
   
 }
-.gracias{ text-align: center;color: white
+.contenedor {
+    display: flex;
+    justify-content: center;  align-items: center;  gap: 40px;                
+    padding: 40px;}
 
+.gatospng {
+    width: 300px;
+    height: auto;
 }
-.gatospng{
-    margin: 0; height: auto;display: block;  width: 30%
+
+.gracias {
+    font-size: 2rem;
+    text-align: center;
+    color: white;
 }
