@@ -13,6 +13,9 @@ form{ background-color: rgba(89, 69, 123, 0.75) ;width: 50%;max-width: 1000px; m
 input{
     font-;font-size: 1rem;color: rgba(60, 40, 95, 0.75); padding: 15px; border-radius: 20px;
 }
+input:hover {background-color: #D6B5E2 ; color: #1e3666;
+   scale: 1;}
+
 
 
 .centrado{
